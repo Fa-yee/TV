@@ -1,13 +1,13 @@
 更新时间,#genre#
-2024-11-26 18:25:12,url
+2024-11-27 06:33:57,url
 央视频道,#genre#
 CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://183.94.146.109:2222/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://59.173.183.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 CCTV-1,http://60.164.128.167:8029/rtp/239.255.30.101:8231$组播源|1920x1080
+CCTV-1,http://183.130.30.174:8808/rtp/233.50.201.118:5140$组播源|1920x1080
 CCTV-1,http://122.9.151.210:8088/rtp/238.255.2.91:5999$组播源
 CCTV-1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8$订阅源|IPv6
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227641/index.m3u8?$订阅源|IPv6
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501$订阅源|IPv6
-CCTV-1,http://122.9.151.210:2669/rtp/238.255.2.91:5999$组播源
