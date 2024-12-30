@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-12-30 18:23:55" tvg-logo="https://live.fanmingming.com/tv/2024-12-30 18:23:55.png" group-title="更新时间",2024-12-30 18:23:55
+#EXTINF:-1 tvg-name="2024-12-31 06:32:55" tvg-logo="https://live.fanmingming.com/tv/2024-12-31 06:32:55.png" group-title="更新时间",2024-12-31 06:32:55
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -18,6 +18,6 @@ http://221.219.79.161:4000/rtp/239.3.1.129:8008$组播源|1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://123.113.187.204:8000/rtp/239.3.1.129:8008$组播源|1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://nas.hssvm.com:8888/udp/225.1.1.120:5002$订阅源|1920x1080
+http://123.122.162.7:19999/udp/239.3.1.129:8008$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://114.249.230.215:9888/udp/239.3.1.129:8008$订阅源|1920x1080
+http://222.129.139.229:8888/udp/239.3.1.129:8008$订阅源|1920x1080
