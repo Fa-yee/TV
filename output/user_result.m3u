@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-03-19 18:21:50" tvg-logo="https://live.fanmingming.com/tv/2025-03-19 18:21:50.png" group-title="更新时间",2025-03-19 18:21:50
+#EXTINF:-1 tvg-name="2025-03-20 06:31:53" tvg-logo="https://live.fanmingming.com/tv/2025-03-20 06:31:53.png" group-title="更新时间",2025-03-20 06:31:53
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源
@@ -20,4 +20,4 @@ http://123.56.129.203:7637/rtp/225.1.8.101:8080$组播源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
 https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$订阅源|1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源|1920x1080
+http://120.76.248.139/live/bfgd/4200000488.m3u8$订阅源|1920x1080
